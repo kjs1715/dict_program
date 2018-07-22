@@ -1,0 +1,13 @@
+
+holy 神圣的 sanctum unhallowed,profane
+marvelous 不可思议的，非凡的 providential,terrific,fantastic,wondrous,grand ordinary,credible
+digress 离题，岔开话题 sidetrack,ramble,rove,swan 无
+run 跑，运转，经营 course,operate,hunt,work,function idle,tick_over
+happy 快乐的 glad,felicitous,well-chosen unhappy,wretched,infelicious,unwilling,miserable,lovestick,unfortunate,suffering
+dangerous 危险的 serious,insecure,severe,unsafe,life-threatening,grievous,grave safe_and_sound,risk-free,fail-safe,off_the_hooj,unhazardous,noncritical,unhurt,safe,riskless,noncrucial
+weak 虚弱的,无力的,淡薄的 faint,dabile,sapless,frail powerful,virile,severe
+precious 宝贵的 wanted,cute,treasured,valued,cherished unloved,worthless,artless,unworthy
+divulge 泄露 expose hide
+pelt 剥皮 skin 无
+unpalatable 令人讨厌的 awful good
+abysmal 深不可测的 unfathomable shallow
